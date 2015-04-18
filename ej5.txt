@@ -1,0 +1,2 @@
+free - Display amount of free and used memory in the system
+Si, existe RAM en esas posiciones. Son posiciones de RAM.

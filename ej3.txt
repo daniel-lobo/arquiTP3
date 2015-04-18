@@ -1,0 +1,3 @@
+d) le faltan bytes, para que el string termine hay que poner \0 que es 0 en hexa.
+Hay que modificar el binario y ponerle 00 por cada letra
+Por lo tanto: 00 00 00 00 00 00 que es TRULE + EL \0 final del string
